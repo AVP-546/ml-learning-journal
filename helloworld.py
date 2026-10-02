@@ -11,7 +11,7 @@ print(f"{first_name}\n")
 age = 25
 print(age)
 print(f"You are {age} years old\n")
-
+print(f"Trying to connect to git")
 #floats + if statements
 
 gpa = 3.2
