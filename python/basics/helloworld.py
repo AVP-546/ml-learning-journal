@@ -1,4 +1,11 @@
-#This is my first Python Program
+#
+#
+#
+#Review of python syntax
+#
+#
+#
+
 print("Hello World\n")
 
 #Python strings can be single-quotes or double quotes
