@@ -1,10 +1,10 @@
 # ML Learning Journal
 
-A running record of what I am studying, when, and how, as preparation for a Machine Learning research project at [INESC TEC](https://www.inesctec.pt/).
+A running record of what I am studying, when, and how, as preparation for "Scaling Piecewise Deterministic Generative Models to Medical Image Synthesis research project at [INESC TEC](https://www.inesctec.pt/).
 
 Two tracks run in parallel:
 
-- **Python** — a hands-on tutorial to get fluent in the language (notes often compare Python with C++).
+- **Python** — a hands-on tutorial to get fluent in the language (notes often compare Python with C++, my first language). [Youtube Python Tutorial - Bro Code](https://www.youtube.com/watch?v=ix9cRaBkVe0&t=6760s)
 - **Machine Learning** — the Machine Learning Specialization on Coursera (DeepLearning.AI / Stanford, Andrew Ng).
 
 The day-by-day record is in **[LOG.md](LOG.md)**.
