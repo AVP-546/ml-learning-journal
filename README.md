@@ -1,6 +1,6 @@
 # ML Learning Journal
 
-A running record of what I am studying, when, and how, as preparation for "Scaling Piecewise Deterministic Generative Models to Medical Image Synthesis research project at [INESC TEC](https://www.inesctec.pt/).
+A running record of what I am studying, when, and how, as preparation for **"Scaling Piecewise Deterministic Generative Models to Medical Image Synthesis"** research project at [INESC TEC](https://www.inesctec.pt/).
 
 Two tracks run in parallel:
 
