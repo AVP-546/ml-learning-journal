@@ -1,5 +1,7 @@
 # Course 1, Week 1 — Introduction to Machine Learning
 
+## Day 1
+
 Notes taken while following the Machine Learning Specialization (Coursera).
 
 ## What is Machine Learning?
@@ -74,3 +76,18 @@ Summarizing: in UL, the algorithm has to find structure or categories in the dat
 - **Supervised learning**: data comes with inputs x, with labels y
 - **Unsupervised learning**: data comes with inputs x, but with no labels y
 - **Clustering**: groups similar datapoints together
+
+
+
+## Day 2 (08/10/2026) - Exercises, NumPy Notation, Matplotlib notation and Python Programming
+
+## Exercises and Syntax for exercises in this specialization
+- **x_train**: the array of features for a training model
+- **y_train**: the array of targets for a training model
+- **How to use numpy to display**: x_train = np.array([x1,x2,x3 ...]) | y_train = np.array([y1,y2,y3 ...]) | print(f"{x_train}")
+- **x_train.shape**: returns a tuple, with the number of values being the number of dimensions of the array and each value representing the number of values in the array of that dimension. Therefore if we access this tuple using, for instance: **x_train.shape[0]** it will return, if determined, the number of values in the first dimension, which is, in consequence, the length of the 1st Dimension array. Doing **x_train.shape[0]** is exactly the same thing as doing **len(x_train)**
+- **Accessing the ith training example**: i = 1, x = x_train[i], y = y_train[i] -> it will return the first example in the dataset
+
+## Plotting the data
+After importing matplotlib.pyplot as plt, we can start to display our training set
+plt.scatter.
